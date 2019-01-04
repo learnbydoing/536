@@ -1,0 +1,460 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes
+compile options:
+2 items
+0 -> -unchecked
+1 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner$.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner$delayedInit$body.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/Message$.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/Message.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleActor$$anonfun$receive$1.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleActor.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1$.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1$delayedInit$body.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2$.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2$delayedInit$body.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor$$anonfun$1.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor$$anonfun$receive$1.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3$.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3$delayedInit$body.class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3.class
+binary dependencies:
+12 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> /Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> /Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> SimplePoisoner
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> SimplePoisoner$
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> SimplePoisoner$delayedInit$body
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Message
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Message$
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleActor$$anonfun$receive$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleRouter1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleRouter1$
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleRouter1$delayedInit$body
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SimpleRouter2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SimpleRouter2$
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SimpleRouter2$delayedInit$body
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RouterSupervisor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RouterSupervisor$$anonfun$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RouterSupervisor$$anonfun$receive$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SimpleRouter3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SimpleRouter3$
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SimpleRouter3$delayedInit$body
+used names:
+297 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> !
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> <init>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> ActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> ActorSystem
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Any
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> App
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> ClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Logging
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Message
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Nothing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Object
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> PoisonPill
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Predef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Props
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> ScalaActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> SimpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> SimplePoisoner
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> String
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> T
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> Unit
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> _$7
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> actorOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> actorRef2Scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> akka
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> apply
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> event
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> materializeClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> package
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> qual$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> qual$2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> qual$3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> reflect
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> simpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> system
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$4
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$5
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> x$6
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> !
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> &&
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> <init>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> <repeated>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ==
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> A
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> A1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> AbstractFunction1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> AbstractPartialFunction
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ActorContext
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ActorSystem
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Any
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> AnyRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> App
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> B1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Boolean
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> FileNotFoundException
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Function1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Inclusive
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> IndexOutOfBoundsException
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Int
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Iterator
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> LogSource
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Logging
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> LoggingAdapter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Message
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> None
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Nothing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Object
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Option
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Predef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Product
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Props
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Range
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Resizer
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> RichInt
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> RoundRobinPool
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> RouterConfig
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ScalaActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ScalaRunTime
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Serializable
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SimpleRouter1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Some
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> String
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> StringOps
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> SupervisorStrategy
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> T
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> T0
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> U
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> Unit
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> _$7
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> _hashCode
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> _root_
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> _toString
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> actorOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> actorRef2Scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> akka
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> apply
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> asInstanceOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> augmentString
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> context
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> eq
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> event
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> foreach
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> format
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> fromActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> info
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> intWrapper
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> io
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> isInstanceOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> java
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> log
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> materializeClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> msg
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> n
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> package
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> qual$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> reflect
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> routing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> runtime
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> simpleRouted
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> system
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> to
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> toString
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> typedProductIterator
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> unchecked
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> withRouter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> x$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> x$2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> ||
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> !
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> <init>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> <repeated>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> ActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> ActorSystem
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Any
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> App
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Boolean
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Broadcast
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> ClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Function1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Inclusive
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Int
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Logging
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Message
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Nothing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Object
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Option
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> PoisonPill
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Predef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Props
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Range
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Resizer
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> RichInt
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> RoundRobinPool
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> RouterConfig
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> ScalaActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SimpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SimpleRouter2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> String
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> StringOps
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> SupervisorStrategy
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> T
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> U
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> Unit
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> _$7
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> actorOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> actorRef2Scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> akka
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> apply
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> augmentString
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> event
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> foreach
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> format
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> intWrapper
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> materializeClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> n
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> package
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> qual$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> qual$2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> qual$3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> qual$4
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> reflect
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> routing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> simpleRouter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> system
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> to
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> withRouter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$2
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$4
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$5
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$6
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$7
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> x$8
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> !
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> +
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> <init>
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ==
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> A1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> AbstractPartialFunction
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ActorContext
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ActorSystem
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Any
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> App
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> B1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Boolean
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Broadcast
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Class
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Decider
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Directive
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Duration
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> FileNotFoundException
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Function1
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Future
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Int
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> LogSource
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Logging
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> LoggingAdapter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Nothing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Object
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> OneForOneStrategy
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Option
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> PoisonPill
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Predef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Props
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Resizer
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Restart
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Resume
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RoundRobinPool
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RouterConfig
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> RouterSupervisor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> ScalaActorRef
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SimpleActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SimpleRouter3
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Stop
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> String
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> SupervisorStrategy
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> T
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> T0
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Terminated
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Throwable
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> Unit
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> UnknownHostException
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> _$7
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> actor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> actorOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> actorRef2Scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> akka
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> apply
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> asInstanceOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> context
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> corpse
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> event
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> fromActor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> io
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> isInstanceOf
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> java
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> log
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> materializeClassTag
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> net
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> package
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> println
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> reflect
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> routing
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> scala
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> self
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> sender
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> simpleRouter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> supervisor
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> supervisorStrategy
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> system
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> terminate
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> unchecked
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> warning
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> watch
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> withRouter
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> withSupervisorStrategy
+product stamps:
+19 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/Message$.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/Message.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor$$anonfun$1.class -> lastModified(1494033877000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor$$anonfun$receive$1.class -> lastModified(1494033877000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/RouterSupervisor.class -> lastModified(1494033877000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleActor$$anonfun$receive$1.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleActor.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner$.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner$delayedInit$body.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimplePoisoner.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1$.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1$delayedInit$body.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter1.class -> lastModified(1494033496000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2$.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2$delayedInit$body.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter2.class -> lastModified(1494033460000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3$.class -> lastModified(1494033877000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3$delayedInit$body.class -> lastModified(1494033877000)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/target/scala-2.12/classes/SimpleRouter3.class -> lastModified(1494033877000)
+source stamps:
+4 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> hash(892b3ea9280e57b59fb76a1c3b9e467df1e16737)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> hash(ceeed1a77f4a3fa043caeec2cd068207fe570c48)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> hash(4b6c1f3a234faf1829fa74b94b12fefe3ab80cf4)
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> hash(50348c54818e08dc73161b5624ff760cae48d1e1)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar -> lastModified(1486741374000)
+/Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/urvipatel/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.17.jar -> akka.actor.Actor
+/Users/urvipatel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.App
+internal apis:
+4 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTqiX7gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwIuMVQnQABm5vdGlmeXNxAH4ADH/K3th0AAR3YWl0c3EAfgAMjpSLHXQADSRhc0luc3RhbmNlT2ZzcQB+AAz14uNEdAAGc3lzdGVtc3EAfgAMaSrsCnQABmVxdWFsc3NxAH4ADCQ9R/Z0AA5TaW1wbGVQb2lzb25lcnNxAH4ADEmYBS90AAxhc0luc3RhbmNlT2ZzcQB+AAzLI99mdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyRGBywdAAMc3luY2hyb25pemVkc3EAfgAMhDSKjHQADSRpc0luc3RhbmNlT2ZzcQB+AAzX7gf0dAAEbWFpbnNxAH4ADAhycQJ0AAlub3RpZnlBbGxzcQB+AAyntv/6dAAMaXNJbnN0YW5jZU9mc3EAfgAMFVrEbHQAAj09c3EAfgAMPyZ+2nQABWNsb25lc3EAfgAMA5WDqHQABiRpbml0JHNxAH4ADGnkKZd0AAtzaW1wbGVBY3RvcnNxAH4ADP1/BAh0AAh0b1N0cmluZ3NxAH4ADHk5GN10AARhcmdzc3EAfgAMOaKNj3QAAiE9c3EAfgAMLjxXRHQACGdldENsYXNzc3EAfgAMuPl3THQAAm5lc3EAfgAMGlAp8nQAAmVxc3EAfgAMntxwiXQAC2RlbGF5ZWRJbml0c3EAfgAMV87thnQAAiMjc3EAfgAMIc5B0HQACGZpbmFsaXplc3EAfgAMgIUowHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4Aa3NxAH4AZnVxAH4ASAAAAABzcQB+AGZ1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHV4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgBaAHEAfgAjdXEAfgBcAAAAAHNxAH4AgnQABFVuaXRxAH4AiHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF90AAVQbGFpbnEAfgAzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCDWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBqc3EAfgCCdAAFQXJyYXlxAH4AiHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCCdAAGU3RyaW5nc3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnQABGphdmFzcQB+AI50AARsYW5ncQB+AJNzcQB+AGZ1cQB+AKoAAAAEc3EAfgCCdAADQXBwcQB+AIhzcQB+AIJ0AAtEZWxheWVkSW5pdHEAfgCIc3EAfgCCdAAGT2JqZWN0cQB+AK5zcQB+AIJ0AANBbnlxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb21Vj53VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE4vVXNlcnMvdXJ2aXBhdGVsL0Rlc2t0b3AvNTM2L0xlY3R1cmVzLzYvU2h1dGRvd25EZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSJKz6pKA5XtZ+3ahw7nkZ98eFnNw==
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwR1a99gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDsjBe/dAAEc2VsZnNxAH4AC8LW4jh0AAdjb250ZXh0dXEAfgAJAAAANXNxAH4AC4q0TZR0AAZub3RpZnlzcQB+AAsYHhckdAAHUmVjZWl2ZXNxAH4AC/7qCYB0AA1TaW1wbGVSb3V0ZXIxc3EAfgALQiZKvHQABHdhaXRzcQB+AAvVkhaCdAANJGFzSW5zdGFuY2VPZnNxAH4AC/cOrSd0AAZzeXN0ZW1zcQB+AAtLVeSgdAAMcHJvZHVjdEFyaXR5c3EAfgAL35OLYHQABmVxdWFsc3NxAH4AC+OlNcl0AAxzaW1wbGVSb3V0ZWRzcQB+AAt/VJvpdAAMYXNJbnN0YW5jZU9mc3EAfgALWCWvBHQADmV4ZWN1dGlvblN0YXJ0c3EAfgALKIx3NHQADHN5bmNocm9uaXplZHNxAH4AC9J5VgN0AA0kaXNJbnN0YW5jZU9mc3EAfgALuZs333QAB3JlY2VpdmVzcQB+AAtZbvsFdAAKcHJlUmVzdGFydHNxAH4AC4GrW7J0AA1hcm91bmRSZWNlaXZlc3EAfgALWI27sHQACGNhbkVxdWFsc3EAfgAL049LTXQAC3Bvc3RSZXN0YXJ0c3EAfgAL6gMZ83QABG1haW5zcQB+AAugKmNWdAAIcG9zdFN0b3BzcQB+AAvKRzG4dAANcHJvZHVjdFByZWZpeHNxAH4AC7FQetR0AAlub3RpZnlBbGxzcQB+AAtUIJJPdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuSviCJdAAMaXNJbnN0YW5jZU9mc3EAfgALIcTmJHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAu1kB9PdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtYLw2AdAAGPGluaXQ+c3EAfgALyeAg/HQACHByZVN0YXJ0c3EAfgALGYdbLHQACXVuaGFuZGxlZHNxAH4AC6Sy/xZ0AAI9PXNxAH4AC+TRQWt0AAVjbG9uZXNxAH4AC3PLJOd0AAYkaW5pdCRzcQB+AAusYOH/dAAHTWVzc2FnZXNxAH4AC7xQ86l0AARjb3B5c3EAfgAL9rxCQHQABnNlbmRlcnNxAH4AC2NDJkd0AAtTaW1wbGVBY3RvcnNxAH4ACwMG4hZ0AAh0b1N0cmluZ3NxAH4AC3p2rVp0AARhcmdzc3EAfgALgxEU+3QAA21zZ3NxAH4AC8BYW4V0AAIhPXNxAH4AC+iCKnJ0AAhnZXRDbGFzc3NxAH4AC0AO/6l0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC4Gv08t0AAJuZXNxAH4AC7A0Mn10ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAu/gSW/dAACZXFzcQB+AAsBPR4BdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALl8J3sXQAA2xvZ3NxAH4AC/6omKR0AAtkZWxheWVkSW5pdHNxAH4ACx3etUx0AAIjI3NxAH4AC+ny0gN0AAhmaW5hbGl6ZXNxAH4AC3CEFfJ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC5DA72Z0AAhoYXNoQ29kZXNxAH4AC1ZA8XN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AU3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIVMAAlpbmhlcml0ZWRxAH4AhUwAB3BhcmVudHNxAH4AhXhxAH4AoXNxAH4AnHVxAH4AgAAAAABzcQB+AJx1cQB+AIAAAAAAc3EAfgCcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCgdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6c3EAfgCtcQB+ALBzcQB+ALFzcQB+ALR1cQB+ALcAAAADc3EAfgC5dAAEamF2YXNxAH4AuXQAAmlvcQB+AL5zcQB+AK10AAdQcm9kdWN0cQB+ALNzcQB+AK10AAZFcXVhbHNxAH4As3NxAH4ArXQABk9iamVjdHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXQABGxhbmdxAH4AvnNxAH4ArXQAA0FueXEAfgCzc3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgBZdXEAfgCUAAAAAHEAfgCYdXEAfgCaAAAAAHNxAH4AnHEAfgCic3EAfgCcc3EAfgCkc3EAfgCcdXEAfgCAAAAAAHNxAH4AnHVxAH4AgAAAAABzcQB+AJx1cQB+AKsAAAADc3EAfgCtdAAFQWN0b3JzcQB+ALFzcQB+ALR1cQB+ALcAAAADc3EAfgC5dAAEYWtrYXNxAH4AuXQABWFjdG9ycQB+AL5zcQB+AK1xAH4AzHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXEAfgDScQB+AL5zcQB+AK1xAH4A1HNxAH4AsXNxAH4AtHVxAH4AtwAAAAJzcQB+ALlxAH4AvHEAfgC+c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgAXdXEAfgCUAAAAAH5xAH4AlnQABk1vZHVsZXVxAH4AmgAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+AJxxAH4AonNxAH4AnHNxAH4ApHNxAH4AnHVxAH4AgAAAAABzcQB+AJx1cQB+AIAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIZxAH4Aj3VxAH4AkAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AQh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgCtdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ALFzcQB+ALR1cQB+ALcAAAACc3EAfgC5cQB+ALxxAH4AvnNxAH4AkgBxAH4AN3VxAH4AlAAAAABzcQB+AK10AARVbml0cQB+ARd1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgEIeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCXdAAFUGxhaW5xAH4AXXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoHNxAH4ArXQABUFycmF5cQB+ARd1cQB+AKsAAAABc3EAfgCtdAAGU3RyaW5nc3EAfgCxc3EAfgC0dXEAfgC3AAAAA3NxAH4AuXEAfgDEc3EAfgC5cQB+ANJxAH4AvnNxAH4AnHVxAH4AqwAAAARzcQB+AK10AANBcHBxAH4BF3NxAH4ArXQAC0RlbGF5ZWRJbml0cQB+ARdzcQB+AK1xAH4AzHEAfgE0c3EAfgCtcQB+ANRxAH4BF3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb21Xo5nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE4vVXNlcnMvdXJ2aXBhdGVsL0Rlc2t0b3AvNTM2L0xlY3R1cmVzLzYvU2h1dGRvd25EZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTO7tGnf0o/oEPK7sLNBoIH/lcMSA==
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzqaLuAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwALuo4HQABm5vdGlmeXNxAH4ADH5/dwd0AAxzaW1wbGVSb3V0ZXJzcQB+AAxl5n0idAAEd2FpdHNxAH4ADB+Rzat0AA0kYXNJbnN0YW5jZU9mc3EAfgAMF7eLFnQABnN5c3RlbXNxAH4ADMBo1Sd0AAZlcXVhbHNzcQB+AAyjFqlUdAAMYXNJbnN0YW5jZU9mc3EAfgAMZLXZ7nQADmV4ZWN1dGlvblN0YXJ0c3EAfgAM3PVOQHQADHN5bmNocm9uaXplZHNxAH4ADNxPHW50AA0kaXNJbnN0YW5jZU9mc3EAfgAMdJTNF3QABG1haW5zcQB+AAyea4CGdAAJbm90aWZ5QWxsc3EAfgAMz92ifHQADGlzSW5zdGFuY2VPZnNxAH4ADM3YaRZ0AAI9PXNxAH4ADBJlbR50AAVjbG9uZXNxAH4ADIWSoxN0AAYkaW5pdCRzcQB+AAxWzECZdAAIdG9TdHJpbmdzcQB+AAzMt806dAAEYXJnc3NxAH4ADJ+9iXR0AAIhPXNxAH4ADJrYNFt0AA1TaW1wbGVSb3V0ZXIyc3EAfgAM1IB4SnQACGdldENsYXNzc3EAfgAMZrQbO3QAAm5lc3EAfgAMuDuVa3QAAmVxc3EAfgAMoekzjnQAC2RlbGF5ZWRJbml0c3EAfgAMrC7k4HQAAiMjc3EAfgAM/aVA83QACGZpbmFsaXplc3EAfgAMxAU0dHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4Aa3NxAH4AZnVxAH4ASAAAAABzcQB+AGZ1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHV4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgBaAHEAfgAjdXEAfgBcAAAAAHNxAH4AgnQABFVuaXRxAH4AiHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF90AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCDWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBqc3EAfgCCdAAFQXJyYXlxAH4AiHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCCdAAGU3RyaW5nc3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnQABGphdmFzcQB+AI50AARsYW5ncQB+AJNzcQB+AGZ1cQB+AKoAAAAEc3EAfgCCdAADQXBwcQB+AIhzcQB+AIJ0AAtEZWxheWVkSW5pdHEAfgCIc3EAfgCCdAAGT2JqZWN0cQB+AK5zcQB+AIJ0AANBbnlxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb21Vj53VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE4vVXNlcnMvdXJ2aXBhdGVsL0Rlc2t0b3AvNTM2L0xlY3R1cmVzLzYvU2h1dGRvd25EZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRLbB86I0+vGCn6dLlLEv7+OrgM9A==
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1/e+pAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDG3Ex7dAAEc2VsZnNxAH4AC14b++l0AAdjb250ZXh0dXEAfgAJAAAALXNxAH4AC6gtaKR0AAZub3RpZnlzcQB+AAshIPrpdAAMc2ltcGxlUm91dGVyc3EAfgALBAGVsnQAB1JlY2VpdmVzcQB+AAuFKC7TdAAEd2FpdHNxAH4AC+GCPEh0AA0kYXNJbnN0YW5jZU9mc3EAfgAL/EJMcHQABnN5c3RlbXNxAH4ACxU3pfJ0AAZlcXVhbHNzcQB+AAutm5DIdAAMYXNJbnN0YW5jZU9mc3EAfgALtYII7HQADmV4ZWN1dGlvblN0YXJ0c3EAfgALgY1rW3QADHN5bmNocm9uaXplZHNxAH4ACxeaUdF0AA0kaXNJbnN0YW5jZU9mc3EAfgALLY94o3QAB3JlY2VpdmVzcQB+AAsoFpypdAAKcHJlUmVzdGFydHNxAH4AC9TP1zB0AA1hcm91bmRSZWNlaXZlc3EAfgALlWa1onQAC3Bvc3RSZXN0YXJ0c3EAfgALKkEtF3QABG1haW5zcQB+AAtN5vvedAAIcG9zdFN0b3BzcQB+AAudZ6jGdAAJbm90aWZ5QWxsc3EAfgALhuMuN3QAEFJvdXRlclN1cGVydmlzb3JzcQB+AAu0lWL9dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuFq8lkdAAMaXNJbnN0YW5jZU9mc3EAfgALwVy8RnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuM36tndAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtKHZSqdAAGPGluaXQ+c3EAfgALZSe1+HQACHByZVN0YXJ0c3EAfgALujXpjnQACXVuaGFuZGxlZHNxAH4AC/fuhC50AA1TaW1wbGVSb3V0ZXIzc3EAfgALgFwuPnQAAj09c3EAfgALCLx2GnQABWNsb25lc3EAfgALgoaIn3QABiRpbml0JHNxAH4AC4liN/90AApzdXBlcnZpc29yc3EAfgALU9LAAXQABnNlbmRlcnNxAH4AC4gpAdV0AAh0b1N0cmluZ3NxAH4AC9TX6gt0AARhcmdzc3EAfgALIDXJhnQAAiE9c3EAfgAL2ScRTnQACGdldENsYXNzc3EAfgAL5rSbQHQAAm5lc3EAfgALFG8CQnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC8Xv0iF0AAJlcXNxAH4AC1g/i9F0AANsb2dzcQB+AAv9vz6zdAALZGVsYXllZEluaXRzcQB+AAtceh+XdAACIyNzcQB+AAthvEOudAAIZmluYWxpemVzcQB+AAu6qFNYdAAIaGFzaENvZGVzcQB+AAvMDQV9dAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB1TAAJaW5oZXJpdGVkcQB+AHVMAAdwYXJlbnRzcQB+AHV4cQB+AJFzcQB+AIx1cQB+AHAAAAAAc3EAfgCMdXEAfgBwAAAAAHNxAH4AjHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AkHQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCQc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCpdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AqnNxAH4AnXQABk9iamVjdHNxAH4AoXNxAH4ApHVxAH4ApwAAAANzcQB+AKl0AARqYXZhc3EAfgCpdAAEbGFuZ3EAfgCwc3EAfgCddAADQW55c3EAfgChc3EAfgCkdXEAfgCnAAAAAnNxAH4AqXQABXNjYWxhcQB+ALBzcQB+AHJxAH4Af3VxAH4AgAAAAABzcQB+AIIAcQB+AEd1cQB+AIQAAAAAfnEAfgCGdAAGTW9kdWxldXEAfgCKAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4AjHEAfgCSc3EAfgCMc3EAfgCUc3EAfgCMdXEAfgBwAAAAAHNxAH4AjHVxAH4AcAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AdnEAfgB/dXEAfgCAAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A0nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJ10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AoXNxAH4ApHVxAH4ApwAAAAJzcQB+AKlxAH4AwHEAfgCwc3EAfgCCAHEAfgAxdXEAfgCEAAAAAHNxAH4AnXQABFVuaXRxAH4A4XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ANJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AId0AAVQbGFpbnEAfgBVc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCeWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCQc3EAfgCddAAFQXJyYXlxAH4A4XVxAH4AmwAAAAFzcQB+AJ10AAZTdHJpbmdzcQB+AKFzcQB+AKR1cQB+AKcAAAADc3EAfgCpcQB+ALdzcQB+AKlxAH4AuXEAfgCwc3EAfgCMdXEAfgCbAAAABHNxAH4AnXQAA0FwcHEAfgDhc3EAfgCddAALRGVsYXllZEluaXRxAH4A4XNxAH4AnXEAfgCycQB+AP5zcQB+AJ1xAH4Au3EAfgDhdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvbW72gdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATi9Vc2Vycy91cnZpcGF0ZWwvRGVza3RvcC81MzYvTGVjdHVyZXMvNi9TaHV0ZG93bkRlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFA0jFSBjgjccxYbViT/dgyuSNHh
+external apis:
+0 items
+source infos:
+4 items
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimplePoisoner.scala -> 
+AAAAAAAAAAA=
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter1.scala -> 
+AAAAAAAAAAA=
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter2.scala -> 
+AAAAAAAAAAA=
+/Users/urvipatel/Desktop/536/Lectures/6/ShutdownDemo/src/main/scala/SimpleRouter3.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9tVY+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy91cnZpcGF0ZWwvRGVza3RvcC81MzYvTGVjdHVyZXMvNi9TaHV0ZG93bkRlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9tV6OZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy91cnZpcGF0ZWwvRGVza3RvcC81MzYvTGVjdHVyZXMvNi9TaHV0ZG93bkRlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9tbvaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy91cnZpcGF0ZWwvRGVza3RvcC81MzYvTGVjdHVyZXMvNi9TaHV0ZG93bkRlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

@@ -1,0 +1,40 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1.\
+\
+X: A = 100 B =100\
+Y: A = 100 B = 100\
+Z: A = 100 B = 100\
+\
+R=W=2\
+\
+a.  \
+\
+Partition occurs separating X and Y from Z\
+\
+Read quorum = 1 + 1 for A and B - client can read A from X or Y\
+Write quorum = 1 + 1 for B - client writes B at X and Y\
+\
+b.\
+\
+If client can only access server Z:\
+\
+Read quorum = write quorum = 1 so client cannot read or write\
+\
+c. \
+\
+Partition repaired, but another occurs separating X and Z from Y\
+\
+After partitiion is repaired, Z could be out of date. Getting a quorum at Z shows that Z is out of date so Z gets updated version from X (since Z cannot reach Y).  Once it does so, the read quorum is 2 and the read can take place.\
+\
+2.\
+\
+When a Publisher sends an updated confguration file to a Storage Point (SP), which is called the Accepting SP, an Acceptance Algorigthm is used to decide whether or not to accept this update.  This algorithm consists of 2 stages, replication and agreement.  The first involves getting a quorum of SPs to reply that they have seen the update, and the second uses vectors to ensure that all SPs agree on the version of the file.\
+\
+Upon receiving the file, the SP creates a temporary file with a unique id (i.e. a timestamp) that is used to refer to this update.  This temporary file is then sent to other SPs over TCP.  When an SP receives the file, it stores it and acknowledges receipt to the Accepting SP.  If a quorum of SPs do not respond (within a timeout) that they have stored the file, then the Publisher gets an error message from the Accepting SP.  If all goes well and a qurorum of SPs respond that they have downloaded the file, the agreement phase is initiated.\
+\
+In this phase, the Accepting SP sends a vector of bits whose size corresponds to the number of SPs in the system and each index corresponds to a SP.  The Accepting SP initializes the vector by setting its bit of the vector to 1 and sends the vector and the unique id of the udpate to the other SPs. Upon receipt, each SP sets its bits of the vector to 1 and saves the updated vector to disk and sends the updated vector to other SPs.  Agreement is reached when a quorum of the bits is set. At this time, the Accepting SP accepts the Publisher\'92s updated.  When an SP discovers this agreement (by checking that a majority of the bits in the vector are 1), it will upload the file to a permanent location for the Receivers.}

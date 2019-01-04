@@ -1,0 +1,82 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2839ec30, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/classes:/Users/urvipatel/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{Actor, ActorRef, ActorSystem, Props}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:5: not found: type ActorRef[0m
+[0m[[31merror[0m] [0mcase class Neighbors(left:ActorRef, right:ActorRef)[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:5: not found: type ActorRef[0m
+[0m[[31merror[0m] [0mcase class Neighbors(left:ActorRef, right:ActorRef)[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:14: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass PingPong extends Actor {[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:15: not found: value self[0m
+[0m[[31merror[0m] [0m  var left = self[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:16: not found: value self[0m
+[0m[[31merror[0m] [0m  var right = self[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:23: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var recording = Map[ActorRef, Queue[Any]]()[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:24: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var closed = Map[ActorRef, Boolean]()[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:27: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:31: not found: value self[0m
+[0m[[31merror[0m] [0m      printf("%12s : PING=%d, PONG=%d\n", self.path.toStringWithoutAddress, PINGcount, PONGcount)[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:36: not found: value self[0m
+[0m[[31merror[0m] [0m        printf("%12s : MESSAGE RECORDING\n%26s ---> %s\n", self.path.toStringWithoutAddress, sender.path.toStringWithoutAddress, PING)[0m
+[0m[[31merror[0m] [0m                                                           ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:44: not found: value self[0m
+[0m[[31merror[0m] [0m      printf("%12s : PING=%d, PONG=%d\n", self.path.toStringWithoutAddress, PINGcount, PONGcount)[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:49: not found: value self[0m
+[0m[[31merror[0m] [0m        printf("%12s : MESSAGE RECORDING\n%26s ---> %s\n", self.path.toStringWithoutAddress, sender.path.toStringWithoutAddress, PONG)[0m
+[0m[[31merror[0m] [0m                                                           ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:62: not found: value self[0m
+[0m[[31merror[0m] [0m          printf("%12s : SNAPSHOT\n               STATE: %d %d\n               MESSAGES IN TRANSIT:\n               %s--->%s\n               %s--->%s\n", self.path.toStringWithoutAddress, snapshot(0), snapshot(1), left.path.toStringWithoutAddress, recording(left), right.path.toStringWithoutAddress, recording(right))[0m
+[0m[[31merror[0m] [0m                                                                                                                                                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:67: not found: value self[0m
+[0m[[31merror[0m] [0m        printf("%12s : STARTING SNAPSHOT\n               STATE: %d %d\n", self.path.toStringWithoutAddress, PINGcount, PONGcount)[0m
+[0m[[31merror[0m] [0m                                                                          ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:81: not found: value self[0m
+[0m[[31merror[0m] [0m        printf("%12s : SENDING MARKER TO NEIGHBORS\n", self.path.toStringWithoutAddress)[0m
+[0m[[31merror[0m] [0m                                                       ^[0m
+[0m[[31merror[0m] [0m/Users/urvipatel/Desktop/536/Lectures/3/code/token/src/main/scala/token.scala:93: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  val system = ActorSystem("PingPong")[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m17 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

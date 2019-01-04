@@ -1,0 +1,59 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/h2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/h2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/h2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/h2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+java.lang.IllegalArgumentException: requirement failed: Source file '/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/target/scala-2.11/classes/HW2/Start$.class' does not exist.
+	at scala.Predef$.require(Predef.scala:233)
+	at sbt.IO$.copyFile(IO.scala:636)
+	at sbt.IO$.move(IO.scala:839)
+	at sbt.inc.ClassfileManager$$anonfun$transactional$1$$anon$2.sbt$inc$ClassfileManager$$anonfun$$anon$$move(ClassfileManager.scala:75)
+	at sbt.inc.ClassfileManager$$anonfun$transactional$1$$anon$2$$anonfun$delete$3.apply(ClassfileManager.scala:52)
+	at sbt.inc.ClassfileManager$$anonfun$transactional$1$$anon$2$$anonfun$delete$3.apply(ClassfileManager.scala:51)
+	at scala.collection.immutable.HashSet$HashSet1.foreach(HashSet.scala:153)
+	at scala.collection.immutable.HashSet$HashTrieSet.foreach(HashSet.scala:306)
+	at sbt.inc.ClassfileManager$$anonfun$transactional$1$$anon$2.delete(ClassfileManager.scala:51)
+	at sbt.inc.Incremental$.prune(Incremental.scala:92)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:29)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:72)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:71)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:99)
+	at sbt.inc.Incremental$.compile(Incremental.scala:71)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.IC$.compileInternal(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$.incrementalCompile(IncrementalCompiler.scala:138)
+	at sbt.Compiler$.compile(Compiler.scala:155)
+	at sbt.Compiler$.compile(Compiler.scala:141)
+	at sbt.Defaults$.sbt$Defaults$$compileIncrementalTaskImpl(Defaults.scala:879)
+	at sbt.Defaults$$anonfun$compileIncrementalTask$1.apply(Defaults.scala:870)
+	at sbt.Defaults$$anonfun$compileIncrementalTask$1.apply(Defaults.scala:868)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) java.lang.IllegalArgumentException: requirement failed: Source file '/Users/urvipatel/Desktop/CSC_536_TEST/token_ring/target/scala-2.11/classes/HW2/Start$.class' does not exist.[0m

@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww11920\viewh15440\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1\
+\
+a)\
+\
+If a process q gets a message and sends it directly to the application without reliably multicasting to the message to the group, then it atomicity is lost since the reliable multicast ensures that every non-faulty process has received the message.  So without reliably multicasting to the group before sending to the application, it is possible that some non-faulty processes got the messages while others did not.\
+\
+A possible scenario is that q sends the message to the application and then reliably multicasts it to the group. It is possible that a process p could have crashed between the time the message was sent to the application and when it was multicast to the group  In this scenario, q sent the message to the application but p never received it.\
+\
+b)\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Totally ordered - Message is reliably multicast to group and each server stores messages in a queue whose messages are sorted by Lamport timetamp \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+FIFO - Reliably multicast the message to g, but at the receiving end, assign sequence numbers to the messages received so that order may be preserved\
+\
+Causal - Start with FIFO multicast and use vector timestamps\
+\
+2\
+\
+a)\
+\
+A candidate wins an election if it gets a majority of the votes from the servers in the cluster.  Since a majority is required then there can be no ties so only one leader is elected.\
+\
+b)  \
+\
+Scenario (e) could have happened if the server was leader for term 4 and got 2 commands and crashed before sending them, and was down for a few terms\
+\
+Scenario (c) could have happened if the server was the leader for term 6 and then crashed after getting the command but before sending it to any of the servers\
+\
+Scenario (d) could have happened if the server was leader for 7 and got 2 commands and crashed before sending them\
+\
+c)\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 An entry is committed only after it has been replicated on a majority of the servers in a cluster.  To win an election, a candidate must get votes from a majority of servers in the cluster and within this group of servers, at least one will have every committed entry.  \
+\
+d)  \'93by assumption\'94\
+\
+\
+e)\
+\
+The broadcast time (time to send RPCs in parallel) must be much less than the election timeout (the time a server will wait for communication from a leader), so leaders can send the heartbeat messages needed to keep elections from starting.  The election timeout needs to be less than the mean time between failures so that the algorithm can proceed.  If the election timeout is longer than the mean time between failures, then there will be a long wait after a leader failure and before the new leader is elected.\
+\
+3\
+\
+Project Proposal: A general, distributed Map-Reduce framework (Option #1)}
